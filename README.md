@@ -2,7 +2,7 @@
 
 ![RXYO Logo](rxyo.png)
 
-[Logo as a `.wav` file](logo.wav)
+[Logo as a `.wav` file](rxyo.wav)
 
 ## What?
 
@@ -16,9 +16,9 @@ showcases the following:
 
 ## Why?
 
-I did it as an excercise in Raylib and because I like Oscilloscope music but oscilloscopes are too heavy to carry and I move a lot. There is also a specific challenge in implementing a XY oscilloscope:
+I did it as an excercise in Raylib and because I like oscilloscope music but oscilloscopes are too heavy to carry and I move a lot. There is also a specific challenge in implementing a XY oscilloscope:
 
-+ The audio rate and display refresh rate are different.
++ The audio rate and the display refresh rate are different.
 
 ## How?
 
